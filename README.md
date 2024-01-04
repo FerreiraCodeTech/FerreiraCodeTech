@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FerreiraCodeTech
-- 👀 I’m interested in FrontEnd Delevopment
-- 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FullStack Delevopment
+- 🌱 I’m currently learning Javascript, Node.js, React.js and AWS
 - 📫 How to reach me https://www.linkedin.com/in/filipeferreira20/
 
 <!---
