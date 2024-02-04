@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @FerreiraCodeTech
-- 👀 I’m interested in **FullStack Delevopment**
-- 🌱 I’m currently learning Javascript, Node.js, React.js and AWS
-- 📫 How to reach me https://www.linkedin.com/in/filipeferreira20/
+# Filipe Ferreira Full Stack Developer
 
-<!---
-FerreiraCodeTech/FerreiraCodeTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## olá, Mundo!
+Me chamo Filipe, tenho 23 anos de idade, sou estudante de **ciência da computação** onde me encontro no **3º semestre.**
+também estou cursando segurança da informação pelo programa do governo federal do Brasil **Hackers do Bem**, onde pretendo me especializar no **Red Team.**
+estou imerso neste mercado de tecnologia a pelo menos 2 anos, com meu ingresso sendo em meados de 2022.
+neste tempo pude aprimorar meu conhecimentos, e conquistar uma base sólida nas tecnologias que trabalho.
